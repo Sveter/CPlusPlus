@@ -1,0 +1,10 @@
+﻿  string.cpp
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(128): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(152): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(169): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(246): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(279): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(300): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\李煜哲\desktop\excuse\c++\string\string\string.cpp(317): warning C4018: “<”: 有符号/无符号不匹配
+  String.vcxproj -> C:\Users\李煜哲\Desktop\excuse\C++\String\Debug\String.exe
